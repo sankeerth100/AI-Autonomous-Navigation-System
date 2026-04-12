@@ -1,0 +1,13 @@
+[ Environment Grid ]
+        ↓
+[ Perception Module ]
+        ↓
+[ Obstacle Detection ]
+        ↓
+[ Path Planning (A*) ]
+        ↓
+[ Navigation Logic ]
+        ↓
+[ Movement Control ]
+        ↓
+[ Visualization (Pygame) ]
