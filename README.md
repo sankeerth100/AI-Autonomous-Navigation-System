@@ -17,6 +17,22 @@ This project simulates an autonomous navigation system using Python and A* path 
 * Pygame
 * NumPy
 
+Block Diagram:
+
+[ Environment Grid ]
+        ↓
+[ Perception Module ]
+        ↓
+[ Obstacle Detection ]
+        ↓
+[ Path Planning (A*) ]
+        ↓
+[ Navigation Logic ]
+        ↓
+[ Movement Control ]
+        ↓
+[ Visualization (Pygame) ]
+
 ## Run
 
 ```bash
